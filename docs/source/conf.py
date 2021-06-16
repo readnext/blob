@@ -18,9 +18,6 @@
 # -- Project information -----------------------------------------------------
 
 project = 'DocTest'
-copyright = '2021, Gaurav Mishra'
-author = 'Gaurav Mishra'
-
 
 # -- General configuration ---------------------------------------------------
 
